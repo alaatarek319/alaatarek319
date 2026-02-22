@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaatarek319&show_icons=true&theme=github_light&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaatarek319&theme=github_light&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alaatarek319&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaatarek319&theme=dark&hide_border=true&background=0d1117&fire=ff6d28&currStreakNum=ffffff" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
