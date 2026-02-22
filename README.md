@@ -4,13 +4,12 @@
 
 # 👋 Hi, I'm **Alaa Tarek**
 
-🎓 **Computer Engineering Student** 🌟 Passionate about **MERN Web Development**  
-🚀 Exploring **AI/ML**, **Embedded Systems**, and **Open Source Contributions**
-
+🎓 **Computer Engineering Student** 🌟 Passionate about **Web Development**  
+🚀 Exploring **AI/ML**, and **Embedded Systems**
 ---
 
 ## 🔧 Skills & Tools
-**Languages, Frameworks and Tools:** **JavaScript** | **TypeScript** | **C++** | **HTML5** | **CSS3** | **Node.js** | **Express.js** | **SQL** | **MongoDB** | **Git**
+**Languages, Frameworks and Tools:** **JavaScript** | **C++** | **HTML5** | **CSS3** | **Node.js** | **SQL** | **MongoDB** | **Git**
 
 ---
 
